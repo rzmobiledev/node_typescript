@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "ext": ".ts,.js",
+    "watch": ["src"],
+    "ignore": ["*.test.js","**/fixtures/**"],
+    "exec": "npx ts-node ./src/main.ts"
+}

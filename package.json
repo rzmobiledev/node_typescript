@@ -1,0 +1,17 @@
+{
+  "name": "learn_node",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx nodemon"
+  },
+  "author": "Rizal Safril",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
